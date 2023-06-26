@@ -298,7 +298,7 @@ header .bg__header__image {
   left: 0px;
 }
 .box.is--reversed .box__image.laptop {
-  background-image: url("../../images/illustration-laptop-desktop.svg");
+  background-image: url("../images/illustration-laptop-desktop.svg");
   background-position: -250px 15%;
   background-size: 900px;
 }
